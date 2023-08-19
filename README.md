@@ -10,3 +10,7 @@ This Python program retrieves weather forecast data from the OpenWeatherMap API 
 The program provides accurate weather information based on user inputs and ensures a user-friendly experience. It demonstrates practical usage of API data retrieval and parsing techniques using Python.
 
 To run the program, make sure you have the `requests` library installed. You can run the script and follow the prompts to explore weather data for different time intervals.
+
+
+# Screenshot
+![Screenshot 2023-08-19 132430](https://github.com/Younus-Saberi/OpenWeather/assets/73644685/4a0366c8-66c3-4d36-ac93-a739728efebb)
